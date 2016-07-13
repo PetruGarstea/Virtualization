@@ -1,1 +1,1 @@
-This script save the state of the vm, exports it to a SMB share and starts it back.
+This script saves the state of the vms, exports all vms to a SMB share and starts the saved states of the vms.
